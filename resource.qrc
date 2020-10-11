@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>image/blur.png</file>
+        <file>image/blue.png</file>
+        <file>image/deblur.png</file>
+        <file>image/decode.png</file>
+        <file>image/encode_base.png</file>
+        <file>image/green.png</file>
+        <file>image/red.png</file>
+        <file>icon/Qt_threeStatus_ok.png</file>
+        <file>icon/Qt_threeStatus_ok1.png</file>
+        <file>icon/Qt_threeStatus_OK2.png</file>
+        <file>gif/insert.gif</file>
+        <file>image/secret.jpg</file>
+        <file>gif/extract.gif</file>
+    </qresource>
+</RCC>
